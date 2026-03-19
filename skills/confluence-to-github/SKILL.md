@@ -9,8 +9,6 @@ allowed-tools: Read, Bash, Write, Glob, Grep
 
 # Confluence Export to GitHub Markdown
 
-> *We killed Confluence with 14 KB*
-
 Convert a Confluence XML site export into a private GitHub repository of clean
 Markdown, organized by space and page hierarchy, with large attachments tracked
 via Git LFS.

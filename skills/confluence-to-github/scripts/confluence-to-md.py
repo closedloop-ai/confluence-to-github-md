@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""We killed Confluence with 14 KB.
+"""Confluence Export to GitHub Markdown.
 
 Converts a Confluence XML site export into clean Markdown.
 
