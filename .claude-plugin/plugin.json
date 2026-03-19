@@ -1,0 +1,13 @@
+{
+  "name": "confluence-to-github-md",
+  "description": "We killed Confluence with 12 KB. Convert Confluence XML exports into clean Markdown GitHub repos with LFS.",
+  "version": "1.0.0",
+  "author": {
+    "name": "ClosedLoop",
+    "email": "support@closedloop.ai",
+    "url": "https://github.com/closedloop-ai"
+  },
+  "repository": "https://github.com/closedloop-ai/confluence-to-github-md",
+  "license": "MIT",
+  "keywords": ["confluence", "markdown", "migration", "wiki", "export", "git-lfs"]
+}
