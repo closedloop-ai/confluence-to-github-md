@@ -24,7 +24,11 @@ A Claude Code plugin that converts Confluence XML site exports into clean Markdo
 ## Install
 
 ```bash
-/plugin install closedloop-ai/confluence-to-github-md
+# 1. Add the marketplace
+/plugin marketplace add closedloop-ai/confluence-to-github-md
+
+# 2. Install the plugin
+/plugin install confluence-to-github-md@confluence-to-github-md
 ```
 
 ## Usage
