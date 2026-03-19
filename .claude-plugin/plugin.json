@@ -1,6 +1,6 @@
 {
   "name": "confluence-to-github-md",
-  "description": "We killed Confluence with 12 KB. Convert Confluence XML exports into clean Markdown GitHub repos with LFS.",
+  "description": "We killed Confluence with 14 KB. Convert Confluence XML exports into clean Markdown GitHub repos with LFS.",
   "version": "1.0.0",
   "author": {
     "name": "ClosedLoop",

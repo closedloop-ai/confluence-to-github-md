@@ -1,13 +1,13 @@
 ---
 name: confluence-to-github
-description: "We killed Confluence with 12 KB. Convert a Confluence XML site export into a private GitHub repo of clean Markdown with Git LFS — spaces, pages, hierarchy, and attachments preserved."
+description: "We killed Confluence with 14 KB. Convert a Confluence XML site export into a private GitHub repo of clean Markdown with Git LFS — spaces, pages, hierarchy, and attachments preserved."
 disable-model-invocation: true
 user-invocable: true
 argument-hint: <export-path> <github-org> [repo-name]
 allowed-tools: Read, Bash, Write, Glob, Grep
 ---
 
-# We killed Confluence with 12 KB
+# We killed Confluence with 14 KB
 
 Convert a Confluence XML site export into a private GitHub repository of clean
 Markdown, organized by space and page hierarchy, with large attachments tracked

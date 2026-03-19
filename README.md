@@ -1,4 +1,4 @@
-# We killed Confluence with 12 KB
+# We killed Confluence with 14 KB
 
 [![GitHub release](https://img.shields.io/github/v/release/closedloop-ai/confluence-to-github-md?style=flat-square)](https://github.com/closedloop-ai/confluence-to-github-md/releases/latest)
 [![License: MIT](https://img.shields.io/badge/license-MIT-blue?style=flat-square)](LICENSE)
