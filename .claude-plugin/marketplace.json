@@ -1,5 +1,8 @@
 {
   "name": "confluence-to-github-md",
+  "metadata": {
+    "description": "Confluence Export to GitHub Markdown — convert Confluence XML site exports into clean Markdown GitHub repos with Git LFS."
+  },
   "owner": {
     "name": "ClosedLoop",
     "email": "support@closedloop.ai"
@@ -7,7 +10,7 @@
   "plugins": [
     {
       "name": "confluence-to-github-md",
-      "source": ".",
+      "source": "./plugins/confluence-to-github-md",
       "description": "Confluence Export to GitHub Markdown — convert Confluence XML site exports into clean Markdown GitHub repos with Git LFS.",
       "version": "1.0.0"
     }
